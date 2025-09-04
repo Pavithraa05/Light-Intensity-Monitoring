@@ -11,7 +11,7 @@ Different types of graphs are implemented to better understand variations in lig
 - Sensor data is uploaded to **Bolt Cloud** for storage and processing.  
 
 **Sensor Connection**  
-![Sensor Connection](![1sT_Sensor_Conn](https://github.com/user-attachments/assets/6ffd1f72-35a5-43f6-a780-b075e80a4504)
+![Sensor Connection](![[1sT_Sensor_Conn](https://github.com/user-attachments/assets/6ffd1f72-35a5-43f6-a780-b075e80a4504](https://github.com/Pavithraa05/Light-Intensity-Monitoring/blob/main/1sT_Sensor_Conn.jpg))
 )  
 
 **Bolt Cloud Linked with Sensor**  
