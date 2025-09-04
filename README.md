@@ -110,7 +110,7 @@ plotChart('time_stamp','light') → Plot data (time vs light)
 
 **Customized Area Graph**  
 ![Customized Area Graph](area_graph_final_code.png) 
-![Customized Area Graph](area_Graph_final.png)
+![Customized Area Graph Output](area_Graph_final.png)
 
 ### 🔹 Gauge Graph  
 
