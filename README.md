@@ -14,12 +14,10 @@ Different types of graphs are implemented to better understand variations in lig
 ![Sensor Connection](1sT_Sensor_Conn.jpg)
 
 **Bolt Cloud Linked with Sensor**  
-![Bolt Cloud](<img width="1920" height="1080" alt="Cloud_liked_1St_sensor" src="https://github.com/user-attachments/assets/e38f24c4-9147-4c55-9d72-d6b760222e57" />
-)  
+![Bolt Cloud](Cloud_liked_1St_sensor.png)  
 
 **Hardware Setup**  
-![Hardware Setup](<img width="1920" height="1080" alt="hardware_1st_sensor" src="https://github.com/user-attachments/assets/8056619f-51aa-4802-83ec-b90f4d9e3fef" />
-)  
+![Hardware Setup](hardware_1st_sensor.png)
 
 ---
 
@@ -29,12 +27,10 @@ Different types of graphs are implemented to better understand variations in lig
 - Data is stored for visualization using **Google Charts**.  
 
 **Code**  
-![Code](<img width="1920" height="1080" alt="code_1st_sensor" src="https://github.com/user-attachments/assets/19f1e521-b68d-4b55-a366-bf12b77b6cb7" />
-)  
+![Code](code_1st_sensor.png)  
 
 **Collected Data**  
-![Collected Data](<img width="1920" height="1080" alt="Data_Collected_!st_sensor" src="https://github.com/user-attachments/assets/394794e7-f968-4e87-a981-c5fe5ff72507" />
-)  
+![Collected Data](Data_Collected_!st_sensor.png)
 
 ---
 
@@ -50,13 +46,10 @@ We use **Google Chart Library** to visualize sensor data in different formats.
 - Useful for observing **rising and falling patterns**.  
 
 **Line Graph Code**  
-![Line Graph Code](<img width="1920" height="1080" alt="Sesnor_data_withLineGraph_Code" src="https://github.com/user-attachments/assets/16f65c63-1022-4168-8b5c-2d3ac88a4d27" />
-)  
+![Line Graph Code](Sesnor_data_withLineGraph_Code.png)
 
 **Line Graph Output**  
-![Line Graph Output](<img width="1920" height="1080" alt="linegraph" src="https://github.com/user-attachments/assets/90d41c4d-c4e9-4654-a1d6-2b3e99bfcc37" />
-)  
-
+![Line Graph Output](linegraph.png)
 ---
 
 ### 🔹 Bar Graph  
@@ -65,12 +58,9 @@ We use **Google Chart Library** to visualize sensor data in different formats.
 - Makes it easy to **compare values** at different times.  
 
 **Bar Graph Code**  
-![Bar Graph Code](<img width="1920" height="1080" alt="bargraph_code" src="https://github.com/user-attachments/assets/298236dd-153e-4d7a-962e-e302bf259d65" />
-)  
-
+![Bar Graph Code](bargraph_code.png)
 **Bar Graph Output**  
-![Bar Graph Output](<img width="1920" height="1080" alt="barpgraph" src="https://github.com/user-attachments/assets/63775a68-61ad-4ffe-a749-d1c461cc17c3" />
-)  
+![Bar Graph Output](barpgraph.png)
 
 ---
 
@@ -80,12 +70,10 @@ We use **Google Chart Library** to visualize sensor data in different formats.
 - Helps identify **fluctuations** and **outliers**.  
 
 **Scatter Graph Code**  
-![Scatter Graph Code](<img width="1920" height="1080" alt="scatterGraph_code" src="https://github.com/user-attachments/assets/bf133e1e-73ec-46f7-b3b9-d149de1615ad" />
-)  
+![Scatter Graph Code](scatterGraph_code.png)
 
 **Scatter Graph Output**  
-![Scatter Graph Output](<img width="1920" height="1080" alt="Scatter_graph" src="https://github.com/user-attachments/assets/688b762f-c672-4a27-92d3-62f6f570fd94" />
-)  
+![Scatter Graph Output](Scatter_graph.png)
 
 ---
 
@@ -95,13 +83,9 @@ We use **Google Chart Library** to visualize sensor data in different formats.
 - Shows overall **data distribution** clearly.  
 
 **Area Graph Code**  
-![Area Graph Code](<img width="1920" height="1080" alt="area_graph_code" src="https://github.com/user-attachments/assets/d5a09898-5065-405a-b2f3-6c07f88b720c" />
-)  
-
+![Area Graph Code](area_graph_code.png)
 **Area Graph Output**  
-![Area Graph Output](<img width="1920" height="1080" alt="area_graph" src="https://github.com/user-attachments/assets/6e343acd-3c96-441f-aa68-7e0979719eeb" />
-)  
-
+![Area Graph Output](area_graph.png)
 ---
 
 ### 🔹 Customized Area Graph  
@@ -125,9 +109,8 @@ setCrossHair(true) → Show crosshair guideline on hover
 plotChart('time_stamp','light') → Plot data (time vs light)
 
 **Customized Area Graph**  
-![Customized Area Graph](images/customized_areagraph.png)  
-![Customized Area Graph](<img width="1920" height="1080" alt="area_Graph_final" src="https://github.com/user-attachments/assets/60829d99-e58e-44ce-a45e-f2462946c199" />
-)
+![Customized Area Graph](area_graph_final_code.png) 
+![Customized Area Graph](area_Graph_final.png)
 
 ### 🔹 Gauge Graph  
 
@@ -135,12 +118,25 @@ plotChart('time_stamp','light') → Plot data (time vs light)
 - Useful for monitoring whether light intensity is **low, medium, or high** at a glance.  
 
 **Gauge Graph Code**  
-![Gauge Graph Code](<img width="1920" height="1080" alt="gauge_code" src="https://github.com/user-attachments/assets/50648776-65b4-4f15-8a15-91dddf44045b" />
-)  
+![Gauge Graph Code](gauge_code.png)
 
 **Gauge Graph Output**  
-![Gauge Graph Output](<img width="1920" height="1080" alt="gauge_graph" src="https://github.com/user-attachments/assets/6cf72f82-a5a6-4444-a5de-b8608b18d141" />
-)  
+![Gauge Graph Output](gauge_graph.png)
+
+## ✅ Final Outcome
+- Successfully monitored **real-time light intensity** using a sensor.  
+- Stored data securely in **Bolt Cloud**.  
+- Visualized data with **multiple types of Google Charts**.  
+- Compared graphs (line, bar, scatter, area, gauge) to analyze light intensity trends.  
+
+---
+
+## 📚 My Learnings
+- Gained hands-on experience with **Bolt IoT Cloud** and its APIs.  
+- Learned how to **collect, log, and retrieve sensor data** from the cloud.  
+- Practiced using the **Google Chart library** to represent IoT data in different formats.  
+- Understood how to **customize visualizations** (titles, axes, crosshairs, etc.).  
+- Improved knowledge of **IoT systems**, **data visualization**, and **GitHub project documentation**.  
 
 ---
 
